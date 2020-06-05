@@ -1,5 +1,9 @@
 # TechAcademy-Ass
-This is my entry for the TechAcademy assignment
-My name is Sha'adah Olamide
-im in UI/UX Track
-I'd like to lern designing because im a tech savy and I'll also like to explore new knowledge
+ShaadahOlamide-patch-1-TechAcad-Ass
+
+Name: Sha'adah Olamide
+
+Track: UI/UX track
+
+Reason for joining: I'd like to learn designing so I'd be avle to explore new knowledge in the Tech world
+
