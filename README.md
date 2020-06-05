@@ -1,7 +1,7 @@
 # TechAcademy-Ass
 
-I'm Sha'adah Olamide
+Name: Sha'adah Olamide
 
-I'm in the UI/UX track
+Track: UI/UX track
 
-I'd like to learn designing so I'd be avle to explore new knowledge in the Tech world
+Reason for joining: I'd like to learn designing so I'd be avle to explore new knowledge in the Tech world
